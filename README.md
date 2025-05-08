@@ -60,4 +60,15 @@ Location and invalid entries were flagged as "Unknown" to ensure the dataset rem
 Conclusion
 By handling missing or incomplete data thoughtfully and documenting the steps taken, this dataset remains useful for performing meaningful analysis while minimizing any distortions caused by imputed values. The dataset is now ready for insights on customer preferences, transaction patterns, and sales performance.
 
+This is a screenshot of the raw dataset before any cleaning was applied. As seen below, it contains several issues:
+1) Missing Item names
+2) Unknown or blank transaction dates
+3) Missing item, price per unit, quantity and total price.
+
+![Cafe_Sales_Dirty Dataset](https://github.com/user-attachments/assets/b1ab8861-91ca-42cc-ac5b-695854320468)
+
+
+After Applying data cleaning techniques in excel using filters and conditonal replacements the dataset is cleaned.
+![Cafe-Sales Clean Dataset](https://github.com/user-attachments/assets/67a9bb20-a34d-47fb-8f9d-bbfdd487fa45)
+
 
